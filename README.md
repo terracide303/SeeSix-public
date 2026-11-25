@@ -60,7 +60,7 @@ What you see in the pictures, from the front edge (top of the top view) to the b
 
 ## The case
 
-![SeeSix in an exploded view: top shell, the board, bottom shell](pics/seesix-exploded.jpg)
+![SeeSix in an exploded view: top shell, the board, bottom shell](pics/seesix-exploded-v8.jpg)
 
 SeeSix is made to drop into the original PC Engine case. It is also possible to 3D print a complete new shell, and a customised shell that makes the new PCB, with its expanded features and components, fit is coming soon.
 
