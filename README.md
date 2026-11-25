@@ -58,6 +58,14 @@ What you see in the pictures, from the front edge (top of the top view) to the b
 - the DIN sockets, HuCard slot, expansion port, power switch and line-out jack are drawn
   by us from their footprints (no vendor 3D models); the real parts differ in detail
 
+## The case
+
+![SeeSix in an exploded view: top shell, the board, bottom shell](pics/seesix-exploded.jpg)
+
+SeeSix is made to drop into the original PC Engine case. It is also possible to 3D print a complete new shell, and a customised shell that makes the new PCB fit is coming soon.
+
+*The picture is an approximate exploded view: the board is not aligned to the shell's posts. The shell in it is a third-party 3D model; its credit will be added.*
+
 ## Status
 
 | part | state |
